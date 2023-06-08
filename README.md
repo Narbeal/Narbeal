@@ -3,8 +3,10 @@
   <br>
    <a href="https://github.com/Narbeal"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1003&color=43C300&width=435&lines=+%E2%A0%80%E2%A0%80Developer+%2F+Student+%2F+Athlete" alt="Typing SVG" /></a> 
   <br>
-  
 </p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Narbeal&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Narbeal's github stats" /></a><a href="https://github.com/Narbeal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narbeal&layout=compact&theme=merko&hide_border=true" alt="Narbeal's github language" /></a>
+
 
 
 
