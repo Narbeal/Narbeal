@@ -5,9 +5,14 @@
   <br>
   <a href="https://github.com/Narbeal"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1003&color=C3160B&repeat=false&width=435&lines=+%E2%A0%80%E2%A0%80+%E2%A0%80+%E2%A0%80+%E2%A0%80+Languages%3A"/></a>
   <br>
-  <img width="50" height="50" src="https://github.com/Narbeal/Narbeal/assets/127431551/6781e9c2-3b7c-4ea0-91ce-0debbcaa25a0" alt="PT-BR">
-  <img width="50" height="50" src="https://github.com/Narbeal/Narbeal/assets/127431551/2f4fb5e4-1e4c-43e7-a119-015576c5cf65" alt="Ru">
+  
 </p>
+<p align="center">
+  <img width="50" height="50" style="float: left; margin-right: 15px"; src="https://github.com/Narbeal/Narbeal/assets/127431551/6781e9c2-3b7c-4ea0-91ce-0debbcaa25a0" alt="PT-BR">
+  <img width="50" height="50" src="https://github.com/Narbeal/Narbeal/assets/127431551/2f4fb5e4-1e4c-43e7-a119-015576c5cf65" alt="Ru">
+  <img width="50" height="50" src="https://github.com/Narbeal/Narbeal/assets/127431551/2af5feba-29c8-4be2-9809-2ee4a7711489" alt="EN">
+  <img width="50" height="50" src="https://github.com/Narbeal/Narbeal/assets/127431551/edb67d7b-ecd9-4368-bcb7-3f11de58f2b0" alt="JP">
+</p>  
 
 
 - 👋 Hi, I’m @Narbeal, i'm a web programming learner and passionate about artificial intelligence.
