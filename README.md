@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Narbeal&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Narbeal's github stats" hspace="20"/></a>
+  
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Narbeal&show_icons=true&include_all_commits=true&theme=merko&hide_border=true" alt="Narbeal's github stats"/></a>
 <a href="https://github.com/Narbeal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narbeal&layout=compact&theme=merko&hide_border=true" alt="Narbeal's github language" /></a>
 </p>
 
